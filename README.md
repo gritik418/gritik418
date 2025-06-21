@@ -19,6 +19,11 @@ I&apos;m a Full-Stack Developer passionate about building scalable web applicati
   - Get a shareable link instantly  
   - Files auto-expire for privacy & cleanup
 
+- 🌐 **Portfolio Website** – built and deployed in under 2 days  
+  - Sleek, animated, and fully responsive  
+  - Built with **React**, **Vite**, **GSAP**, and **Tailwind CSS**  
+  - 👉 [View Live](https://ritikguptadev.vercel.app)
+
 ---
 
 ## 💻 Tech Stack
@@ -34,9 +39,8 @@ I&apos;m a Full-Stack Developer passionate about building scalable web applicati
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 </p>
-
-
 
 **Backend**
 
