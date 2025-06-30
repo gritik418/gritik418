@@ -7,7 +7,13 @@ I&apos;m a Full-Stack Developer passionate about building scalable web applicati
   - Public and private channels for group sharing
   - 1-on-1 and group **real-time chatting** with typing indicators and message status
 
-- 🛍️ **Trove** – an eCommerce app focused on performance and seamless user flow.
+- 🛍️ **Trove** – a modern, full-stack **eCommerce platform** built for performance and scale:
+  - 🖼️ Cloud-based product image uploads with real-time previews (Cloudinary)
+  - 🛒 Smooth add-to-cart, checkout flow, and order summary
+  - 🔐 Role-based JWT auth, wishlist support, and address management
+  - 📦 Custom shipping & return policies per product
+  - 📊 Admin dashboard to manage products, orders, and users
+  - Built with **NestJS**, **MongoDB**, **Next.js**, and **Tailwind CSS**
 
 - 📝 **iNotes** – a minimal and fast **note-taking web app** built with Next.js.  
   - Create, edit, and manage notes effortlessly  
@@ -47,6 +53,7 @@ I&apos;m a Full-Stack Developer passionate about building scalable web applicati
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -67,6 +74,7 @@ I&apos;m a Full-Stack Developer passionate about building scalable web applicati
 
 <p>
   <img src="https://img.shields.io/badge/Multer-563D7C?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
