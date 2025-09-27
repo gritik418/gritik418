@@ -1,34 +1,39 @@
-# 👋 Hey, I&apos;m Ritik!
+# 👋 Hey, I'm Ritik!
 
-I&apos;m a Full-Stack Developer passionate about building scalable web applications and intuitive user experiences. Currently working on:
+I'm a Full-Stack Developer passionate about building scalable web applications and intuitive user experiences. Currently working on:
 
-- 🚀 **Huddle** – a social media platform with:
-  - Real-time stories (image/video with captions)
-  - Public and private channels for group sharing
-  - 1-on-1 and group **real-time chatting** with typing indicators and message status
+* 🚀 **Huddle** – a social media platform with:
 
-- 🛍️ **Trove** – a modern, full-stack **eCommerce platform** built for performance and scale:
-  - 🖼️ Cloud-based product image uploads with real-time previews (Cloudinary)
-  - 🛒 Smooth add-to-cart, checkout flow, and order summary
-  - 🔐 Role-based JWT auth, wishlist support, and address management
-  - 📦 Custom shipping & return policies per product
-  - 📊 Admin dashboard to manage products, orders, and users
-  - Built with **NestJS**, **MongoDB**, **Next.js**, and **Tailwind CSS**
+  * Real-time stories (image/video with captions)
+  * Public and private channels for group sharing
+  * 1-on-1 and group **real-time chatting** with typing indicators and message status
 
-- 📝 **iNotes** – a minimal and fast **note-taking web app** built with Next.js.  
-  - Create, edit, and manage notes effortlessly  
-  - Supports Markdown  
-  - Optimized for speed and a clean writing experience
+* 🛍️ **Trove** – a modern, full-stack **eCommerce platform** built for performance and scale:
 
-- ⚡ **Quick Share** – a lightweight **file-sharing platform** built with **Next.js + TypeScript**.  
-  - Drag & drop or upload files  
-  - Get a shareable link instantly  
-  - Files auto-expire for privacy & cleanup
+  * 🖼️ Cloud-based product image uploads with real-time previews (Cloudinary)
+  * 🛒 Smooth add-to-cart, checkout flow, and order summary
+  * 🔐 Role-based JWT auth, wishlist support, and address management
+  * 📦 Custom shipping & return policies per product
+  * 📊 Admin dashboard to manage products, orders, and users
+  * Built with **NestJS**, **MongoDB**, **Next.js**, and **Tailwind CSS**
 
-- 🌐 **Portfolio Website** – built and deployed in under 2 days  
-  - Sleek, animated, and fully responsive  
-  - Built with **React**, **Vite**, **GSAP**, and **Tailwind CSS**  
-  - 👉 [View Live](https://ritikguptadev.vercel.app)
+* 📝 **iNotes** – a minimal and fast **note-taking web app** built with Next.js.
+
+  * Create, edit, and manage notes effortlessly
+  * Supports Markdown
+  * Optimized for speed and a clean writing experience
+
+* ⚡ **Quick Share** – a lightweight **file-sharing platform** built with **Next.js + TypeScript**.
+
+  * Drag & drop or upload files
+  * Get a shareable link instantly
+  * Files auto-expire for privacy & cleanup
+
+* 🌐 **Portfolio Website** – built and deployed in under 2 days
+
+  * Sleek, animated, and fully responsive
+  * Built with **React**, **Vite**, **GSAP**, and **Tailwind CSS**
+  * 👉 [View Live](https://ritikguptadev.vercel.app)
 
 ---
 
@@ -59,6 +64,8 @@ I&apos;m a Full-Stack Developer passionate about building scalable web applicati
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 **Dev Tools**
@@ -80,29 +87,70 @@ I&apos;m a Full-Stack Developer passionate about building scalable web applicati
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth-3C5A99?style=for-the-badge&logo=oauth&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Scalable architecture design  
-- System design principles for large-scale apps  
-- Advanced caching and CDN techniques
+* Scalable architecture design
+* System design principles for large-scale apps
+* Advanced caching and CDN techniques
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gritik418&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gritik418&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gritik418\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gritik418\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📫 Let&apos;s Connect
+## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ritik-gupta-849680251/)
+<div style="display: flex; gap: 14px; justify-content: center; align-items: center; margin-top: 20px;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ritik-gupta-849680251/" target="_blank" 
+     style="display: flex; align-items: center; justify-content: center; gap: 8px; 
+            width: 150px; height: 50px; background: #0A66C2; border-radius: 8px; 
+            color: white !important; font-weight: 600; font-family: sans-serif; font-size: 15px; 
+            text-decoration: none; text-align: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         alt="LinkedIn" style="width: 22px; height: 22px;" />
+    <span style="color: white; text-decoration: none;">LinkedIn</span>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:yourname@gmail.com" target="_blank" 
+     style="display: flex; align-items: center; justify-content: center; gap: 8px; 
+            width: 150px; height: 50px; background: #D14836; border-radius: 8px; 
+            color: white !important; font-weight: 600; font-family: sans-serif; font-size: 15px; 
+            text-decoration: none; text-align: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
+         alt="Email" style="width: 22px; height: 22px;" />
+    <span style="color: white; text-decoration: none;">Email</span>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://ritikguptadev.vercel.app/contact" target="_blank" 
+     style="display: flex; align-items: center; justify-content: center; gap: 8px; 
+            width: 150px; height: 50px; background: #444444; border-radius: 8px; 
+            color: white !important; font-weight: 600; font-family: sans-serif; font-size: 15px; 
+            text-decoration: none; text-align: center;">
+    <img src="https://ritikguptadev.vercel.app/logo.png" 
+         alt="Ritik Gupta Logo" style="width: 22px; height: 22px;" />
+    <span style="color: white; text-decoration: none;">Portfolio</span>
+  </a>
+
+</div>
+
+
+
+
+
 
 ---
 
-_Always building, always learning._ 🌟
+*Always building, always learning.* 🌟
