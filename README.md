@@ -123,7 +123,7 @@ I'm a Full-Stack Developer passionate about building scalable web applications a
   </a>
 
   <!-- Email -->
-  <a href="mailto:yourname@gmail.com" target="_blank" 
+  <a href="mailto:gritik418@gmail.com" target="_blank" 
      style="display: flex; align-items: center; justify-content: center; gap: 8px; 
             width: 150px; height: 50px; background: #D14836; border-radius: 8px; 
             color: white !important; font-weight: 600; font-family: sans-serif; font-size: 15px; 
