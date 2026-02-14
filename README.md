@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+SaaS+Applications;Real-Time+Systems+%26+Clean+Architecture;Always+Building.+Always+Learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+SaaS+Applications;Real-Time+Systems+%26+Clean+Architecture;Always+Building.+Always+Learning." />
 </p>
 
 <p align="center">
@@ -16,12 +16,14 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Professional Summary
 
-I’m a Full-Stack Developer focused on building scalable, real-time and production-ready web applications.
+I'm a **Full-Stack Software Engineer** dedicated to building high-performance, production-ready applications. My expertise lies in bridging the gap between complex backend architectures and fluid, intuitive user interfaces. I don't just write code; I design systems that scale.
 
-I enjoy designing clean backend architecture, crafting polished frontend UI, and building systems that scale.
-
+* 🔭 **Focus:** Multi-tenant SaaS architecture & Real-time communication.
+* ⚡ **Motto:** Clean code is the foundation of scalable growth.
+* 🚀 **Goal:** Transforming sub-optimal legacy patterns into modern, high-speed ecosystems.
+  
 ---
 
 # 🚀 Projects
@@ -141,14 +143,31 @@ I enjoy designing clean backend architecture, crafting polished frontend UI, and
 ---
 
 # 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gritik418&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gritik418&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gritik418&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+     <td colspan="2" align="center">
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gritik418&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+       <img src="https://github-readme-stats-salesp07.vercel.app/api?username=gritik418&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gritik418&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gritik418&theme=react-dark&hide_border=true&area=true&height=300" width="100%" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
